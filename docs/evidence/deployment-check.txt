@@ -1,0 +1,1 @@
+Final Compose build: PostgreSQL, API and web healthy. HTML and API responses include CSP, frame protection, nosniff and referrer policy. Caddy config validate succeeded. No public deployment performed.

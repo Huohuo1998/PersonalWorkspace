@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+<rect x="0" y="0" width="390" height="844" rx="0" fill="#F7F8FA"/>
+<rect x="0" y="0" width="390" height="66" rx="0" fill="#FFFFFF"/>
+<text x="22" y="34" font-size="22" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">采购管理</text>
+<text x="370" y="34" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="end" dominant-baseline="middle">预览</text>
+<line x1="0" y1="66" x2="390" y2="66" stroke="#E3E8EF" stroke-width="1"/>
+<rect x="0" y="782" width="390" height="62" rx="0" fill="#FFFFFF"/>
+<line x1="0" y1="782" x2="390" y2="782" stroke="#E3E8EF" stroke-width="1"/>
+<text x="38.0" y="811" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="middle" dominant-baseline="middle">首页</text>
+<text x="116.5" y="811" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="middle" dominant-baseline="middle">日程</text>
+<text x="195.0" y="811" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="middle" dominant-baseline="middle">经济</text>
+<text x="273.5" y="811" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="middle" dominant-baseline="middle">运动</text>
+<text x="352.0" y="811" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="600" fill="#256B5F" text-anchor="middle" dominant-baseline="middle">饮食</text>
+<text x="16" y="94" font-size="17" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">采购差异 · 多轮补购</text>
+<rect x="16" y="119" width="128" height="28" rx="14" fill="#E6F3EE"/>
+<text x="80.0" y="133" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="600" fill="#256B5F" text-anchor="middle" dominant-baseline="middle">POL-DIET-02</text>
+<rect x="16.0" y="167" width="174.0" height="104" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="29.0" y="193" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">已购</text>
+<text x="29.0" y="233" font-size="25" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">2 个</text>
+<rect x="200.0" y="167" width="174.0" height="104" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="213.0" y="193" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">未购</text>
+<text x="213.0" y="233" font-size="25" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">2 个</text>
+<rect x="16.0" y="282" width="174.0" height="104" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="29.0" y="308" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">新需求</text>
+<text x="29.0" y="348" font-size="25" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">5 个</text>
+<rect x="200.0" y="282" width="174.0" height="104" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="213.0" y="308" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">待补购</text>
+<text x="213.0" y="348" font-size="25" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#256B5F" text-anchor="start" dominant-baseline="middle">1 个</text>
+<rect x="16" y="407" width="358" height="174" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="31" y="433" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">采购执行清单</text>
+<text x="33" y="472" font-size="14" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#17212F" text-anchor="start" dominant-baseline="middle">✓  已购鸡蛋 2 个（保留）</text>
+<text x="33" y="513" font-size="14" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#17212F" text-anchor="start" dominant-baseline="middle">○  未购鸡蛋 2 个（保留）</text>
+<text x="33" y="554" font-size="14" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#17212F" text-anchor="start" dominant-baseline="middle">+  新增补购 1 个（待确认）</text>
+<rect x="16" y="600" width="358" height="101" rx="10" fill="#FFF4E6"/>
+<text x="29" y="624" font-size="14" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#A65B11" text-anchor="start" dominant-baseline="middle">! 部分单位需要人工核对</text>
+<text x="29" y="656" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#A65B11" text-anchor="start" dominant-baseline="middle">番茄 2 个  ≠  番茄 200 g</text>
+<text x="29" y="680" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#A65B11" text-anchor="start" dominant-baseline="middle">不可猜算规格与重量。</text>
+<rect x="16" y="729" width="131" height="49" rx="9" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="81.5" y="753.5" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="550" fill="#17212F" text-anchor="middle" dominant-baseline="middle">暂不更新</text>
+<rect x="156" y="729" width="218" height="49" rx="9" fill="#256B5F"/>
+<text x="265.0" y="753.5" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="550" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">确认新增 1 个</text>
+</svg>

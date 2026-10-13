@@ -1,0 +1,66 @@
+{
+  "version": "1.1",
+  "screens": [
+    {
+      "scene": "FIN_S01",
+      "device": "desktop",
+      "svg": "FIN_S01_negative_desktop.svg",
+      "png": "FIN_S01_negative_desktop.png"
+    },
+    {
+      "scene": "FIN_S01",
+      "device": "mobile",
+      "svg": "FIN_S01_negative_mobile.svg",
+      "png": "FIN_S01_negative_mobile.png"
+    },
+    {
+      "scene": "FIN_S02",
+      "device": "desktop",
+      "svg": "FIN_S02_credit_desktop.svg",
+      "png": "FIN_S02_credit_desktop.png"
+    },
+    {
+      "scene": "FIN_S02",
+      "device": "mobile",
+      "svg": "FIN_S02_credit_mobile.svg",
+      "png": "FIN_S02_credit_mobile.png"
+    },
+    {
+      "scene": "FIN_S03",
+      "device": "desktop",
+      "svg": "FIN_S03_refund_desktop.svg",
+      "png": "FIN_S03_refund_desktop.png"
+    },
+    {
+      "scene": "FIN_S03",
+      "device": "mobile",
+      "svg": "FIN_S03_refund_mobile.svg",
+      "png": "FIN_S03_refund_mobile.png"
+    },
+    {
+      "scene": "DIET_S02",
+      "device": "desktop",
+      "svg": "DIET_S02_delta_desktop.svg",
+      "png": "DIET_S02_delta_desktop.png"
+    },
+    {
+      "scene": "DIET_S02",
+      "device": "mobile",
+      "svg": "DIET_S02_delta_mobile.svg",
+      "png": "DIET_S02_delta_mobile.png"
+    },
+    {
+      "scene": "PRIV_S01",
+      "device": "desktop",
+      "svg": "PRIV_S01_mask_desktop.svg",
+      "png": "PRIV_S01_mask_desktop.png"
+    },
+    {
+      "scene": "PRIV_S01",
+      "device": "mobile",
+      "svg": "PRIV_S01_mask_mobile.svg",
+      "png": "PRIV_S01_mask_mobile.png"
+    }
+  ],
+  "status": "review candidate; not design-signed; no website implementation"
+}

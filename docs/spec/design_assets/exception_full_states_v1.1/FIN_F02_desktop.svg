@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1350" height="840" viewBox="0 0 1350 840">
+<rect x="0" y="0" width="1350" height="840" rx="0" fill="#F7F8FA"/>
+<rect x="0" y="0" width="213" height="840" rx="0" fill="#FFFFFF"/>
+<line x1="213" y1="0" x2="213" y2="840" stroke="#E3E8EF" stroke-width="1"/>
+<rect x="23" y="25" width="38" height="38" rx="11" fill="#256B5F"/>
+<text x="42" y="44" font-size="24" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="750" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">P</text>
+<text x="73" y="37" font-size="17" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="central">Personal</text>
+<text x="73" y="57" font-size="11" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">Workspace</text>
+<rect x="15" y="131" width="182" height="44" rx="9" fill="#FFFFFF"/>
+<text x="41" y="153" font-size="16" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">首页</text>
+<rect x="15" y="188" width="182" height="44" rx="9" fill="#FFFFFF"/>
+<text x="41" y="210" font-size="16" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">日程</text>
+<rect x="15" y="245" width="182" height="44" rx="9" fill="#E6F3EE"/>
+<text x="41" y="267" font-size="16" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="650" fill="#256B5F" text-anchor="start" dominant-baseline="central">经济</text>
+<rect x="15" y="302" width="182" height="44" rx="9" fill="#FFFFFF"/>
+<text x="41" y="324" font-size="16" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">运动</text>
+<rect x="15" y="359" width="182" height="44" rx="9" fill="#FFFFFF"/>
+<text x="41" y="381" font-size="16" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">饮食</text>
+<text x="27" y="808" font-size="12" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">视觉草稿 · 非软件页面</text>
+<text x="249" y="43" font-size="12" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="600" fill="#586473" text-anchor="start" dominant-baseline="central">PERSONAL WORKSPACE  /  DESIGN REVIEW</text>
+<text x="1318" y="44" font-size="12" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="end" dominant-baseline="central">CALM WORKSPACE  ·  V2.1</text>
+<line x1="248" y1="69" x2="1320" y2="69" stroke="#E3E8EF" stroke-width="1"/>
+<text x="249" y="109" font-size="25" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="750" fill="#17212F" text-anchor="start" dominant-baseline="central">资金操作 · 正在提交</text>
+<rect x="249" y="129" width="130" height="27" rx="14" fill="#EEF4FF"/>
+<text x="314.0" y="143" font-size="12" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="650" fill="#2563A6" text-anchor="middle" dominant-baseline="central">SCREEN-FIN-03</text>
+<rect x="405" y="129" width="76" height="27" rx="14" fill="#EEF4FF"/>
+<text x="443.0" y="143" font-size="12" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="650" fill="#2563A6" text-anchor="middle" dominant-baseline="central">结果待定</text>
+<rect x="249.0" y="166" width="347.6666666666667" height="34" rx="7" fill="#F1F4F6"/>
+<text x="422.83333333333337" y="183" font-size="13" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="middle" dominant-baseline="central">1 填写转账</text>
+<rect x="603.6666666666667" y="166" width="347.6666666666667" height="34" rx="7" fill="#F1F4F6"/>
+<text x="777.5000000000001" y="183" font-size="13" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="middle" dominant-baseline="central">2 信息核对</text>
+<rect x="958.3333333333334" y="166" width="347.6666666666667" height="34" rx="7" fill="#E6F3EE"/>
+<text x="1132.1666666666667" y="183" font-size="13" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="650" fill="#256B5F" text-anchor="middle" dominant-baseline="central">3 提交结果</text>
+<rect x="249" y="218" width="1070" height="423" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="274" y="256" font-size="18" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="central">背景与业务事实</text>
+<text x="274" y="296" font-size="14" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">请求已经发送。等待原提交结果，不应再创建第二笔同类型交易。</text>
+<rect x="272" y="332" width="477" height="95" rx="10" fill="#EEF4FF"/>
+<text x="290" y="359" font-size="13" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="500" fill="#586473" text-anchor="start" dominant-baseline="central">本轮关键状态</text>
+<text x="290" y="400" font-size="25" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="750" fill="info" text-anchor="start" dominant-baseline="central">正在确认</text>
+<text x="275" y="463" font-size="14" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">业务类型</text>
+<text x="746" y="463" font-size="17" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="600" fill="#17212F" text-anchor="end" dominant-baseline="central">内部转账</text>
+<line x1="275" y1="486" x2="748" y2="486" stroke="#E3E8EF" stroke-width="1"/>
+<text x="275" y="514" font-size="14" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">本次金额</text>
+<text x="746" y="514" font-size="17" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="600" fill="#17212F" text-anchor="end" dominant-baseline="central">¥350.00</text>
+<line x1="275" y1="537" x2="748" y2="537" stroke="#E3E8EF" stroke-width="1"/>
+<text x="275" y="565" font-size="14" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">提交标识</text>
+<text x="746" y="565" font-size="17" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="600" fill="#17212F" text-anchor="end" dominant-baseline="central">DEMO-FIN-001</text>
+<line x1="766" y1="238" x2="766" y2="620" stroke="#E3E8EF" stroke-width="1"/>
+<text x="783" y="256" font-size="18" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="central">影响 / 处理原则</text>
+<text x="783" y="327" font-size="14" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">处理状态</text>
+<text x="783" y="361" font-size="17" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="650" fill="#17212F" text-anchor="start" dominant-baseline="central">等待原提交确认</text>
+<line x1="783" y1="380" x2="1293" y2="380" stroke="#E3E8EF" stroke-width="1"/>
+<text x="783" y="406" font-size="14" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">可创建另一笔？</text>
+<text x="783" y="440" font-size="17" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="650" fill="#17212F" text-anchor="start" dominant-baseline="central">否</text>
+<line x1="783" y1="459" x2="1293" y2="459" stroke="#E3E8EF" stroke-width="1"/>
+<text x="783" y="485" font-size="14" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">页面离开后</text>
+<text x="783" y="519" font-size="17" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="650" fill="#17212F" text-anchor="start" dominant-baseline="central">仍需查询原状态</text>
+<rect x="249" y="659" width="1070" height="71" rx="12" fill="#FFF4E6"/>
+<text x="270" y="681" font-size="13" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="750" fill="#A65B11" text-anchor="start" dominant-baseline="central">重点约束</text>
+<text x="270" y="707" font-size="15" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="500" fill="#A65B11" text-anchor="start" dominant-baseline="central">主操作禁用；可查看原请求状态，不允许重复点击产生新事实。</text>
+<rect x="961" y="748" width="160" height="48" rx="9" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="1041.0" y="772" font-size="14" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="650" fill="#17212F" text-anchor="middle" dominant-baseline="central">查看原提交状态</text>
+<rect x="1132" y="748" width="187" height="48" rx="9" fill="#CCD5D2"/>
+<text x="1225.5" y="772" font-size="14" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="650" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">正在提交…</text>
+<text x="249" y="812" font-size="12" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="central">设计表达：不代表实现了真实交易状态查询。</text>
+</svg>

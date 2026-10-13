@@ -1,0 +1,104 @@
+{
+  "environment": "isolated local Compose HTTP deployment",
+  "runner": "Playwright / system Chromium",
+  "stats": {
+    "startTime": "2026-10-13T01:18:37.048Z",
+    "duration": 36138.152,
+    "expected": 9,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "tests": [
+    {
+      "title": "title-only task persists, scheduled today, event has no checkbox, all navigation",
+      "ok": true,
+      "results": [
+        {
+          "status": "passed",
+          "duration_ms": 2051
+        }
+      ]
+    },
+    {
+      "title": "financial review, negative asset, unknown result queries original request, privacy persists",
+      "ok": true,
+      "results": [
+        {
+          "status": "passed",
+          "duration_ms": 8283
+        }
+      ]
+    },
+    {
+      "title": "workout autosaves, refresh recovery, failed save prevents finish, conflict preserves input",
+      "ok": true,
+      "results": [
+        {
+          "status": "passed",
+          "duration_ms": 4053
+        }
+      ]
+    },
+    {
+      "title": "recipe, meal plan and shopping never create actual meal or spending",
+      "ok": true,
+      "results": [
+        {
+          "status": "passed",
+          "duration_ms": 8144
+        }
+      ]
+    },
+    {
+      "title": "320px mobile and enlarged text: navigation, sheets, keyboard, accessibility",
+      "ok": true,
+      "results": [
+        {
+          "status": "passed",
+          "duration_ms": 1565
+        }
+      ]
+    },
+    {
+      "title": "desktop accessibility and visual screenshot",
+      "ok": true,
+      "results": [
+        {
+          "status": "passed",
+          "duration_ms": 1246
+        }
+      ]
+    },
+    {
+      "title": "dashboard domain failure is isolated and never turns into a fabricated zero",
+      "ok": true,
+      "results": [
+        {
+          "status": "passed",
+          "duration_ms": 811
+        }
+      ]
+    },
+    {
+      "title": "multi-device workout conflict, privacy covers passive body data and editing stays readable",
+      "ok": true,
+      "results": [
+        {
+          "status": "passed",
+          "duration_ms": 7757
+        }
+      ]
+    },
+    {
+      "title": "mobile settings logout revokes session and new account creation returns to the pending transaction",
+      "ok": true,
+      "results": [
+        {
+          "status": "passed",
+          "duration_ms": 1185
+        }
+      ]
+    }
+  ]
+}
