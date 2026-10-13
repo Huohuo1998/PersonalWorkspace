@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1350" height="840" viewBox="0 0 1350 840">
+<rect x="0" y="0" width="1350" height="840" rx="0" fill="#F7F8FA"/>
+<rect x="0" y="0" width="208" height="840" rx="0" fill="#FFFFFF"/>
+<line x1="208" y1="0" x2="208" y2="840" stroke="#E3E8EF" stroke-width="1"/>
+<rect x="26" y="26" width="37" height="37" rx="11" fill="#256B5F"/>
+<text x="44" y="45" font-size="23" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">P</text>
+<text x="77" y="38" font-size="17" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">Personal</text>
+<text x="77" y="56" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">Workspace</text>
+<rect x="16" y="121" width="176" height="44" rx="8" fill="#E6F3EE"/>
+<text x="37" y="143" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="600" fill="#256B5F" text-anchor="start" dominant-baseline="middle">首页</text>
+<rect x="16" y="177" width="176" height="44" rx="8" fill="#FFFFFF"/>
+<text x="37" y="199" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">日程</text>
+<rect x="16" y="233" width="176" height="44" rx="8" fill="#FFFFFF"/>
+<text x="37" y="255" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">经济</text>
+<rect x="16" y="289" width="176" height="44" rx="8" fill="#FFFFFF"/>
+<text x="37" y="311" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">运动</text>
+<rect x="16" y="345" width="176" height="44" rx="8" fill="#FFFFFF"/>
+<text x="37" y="367" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">饮食</text>
+<text x="244" y="44" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="600" fill="#586473" text-anchor="start" dominant-baseline="middle">PERSONAL WORKSPACE  /  DESIGN REVIEW</text>
+<text x="244" y="89" font-size="29" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">隐私模式</text>
+<line x1="240" y1="111" x2="1320" y2="111" stroke="#E3E8EF" stroke-width="1"/>
+<text x="244" y="140" font-size="22" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">隐私模式 · 摘要遮蔽与主动编辑</text>
+<rect x="244" y="167" width="132" height="28" rx="14" fill="#E6F3EE"/>
+<text x="310.0" y="181" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="600" fill="#256B5F" text-anchor="middle" dominant-baseline="middle">POL-PRIV-01</text>
+<rect x="244" y="220" width="528.0" height="382" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<rect x="790.0" y="220" width="528.0" height="382" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="266" y="251" font-size="18" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">被动浏览区  /  隐私开启</text>
+<rect x="574" y="241" width="110" height="28" rx="14" fill="#E6F3EE"/>
+<text x="629.0" y="255" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="600" fill="#256B5F" text-anchor="middle" dominant-baseline="middle">已隐藏</text>
+<text x="268" y="312" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">资产与净资产</text>
+<text x="746.0" y="312" font-size="18" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="650" fill="#17212F" text-anchor="end" dominant-baseline="middle">••••••</text>
+<text x="268" y="376" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">预算及趋势</text>
+<text x="746.0" y="376" font-size="18" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="650" fill="#17212F" text-anchor="end" dominant-baseline="middle">已隐藏</text>
+<text x="268" y="440" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">体重与腰围</text>
+<text x="746.0" y="440" font-size="18" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="650" fill="#17212F" text-anchor="end" dominant-baseline="middle">••••••</text>
+<text x="268" y="504" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">恢复与训练表现</text>
+<text x="746.0" y="504" font-size="18" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="650" fill="#17212F" text-anchor="end" dominant-baseline="middle">已隐藏</text>
+<text x="812.0" y="251" font-size="18" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">主动编辑区  /  当前操作</text>
+<rect x="811.0" y="290" width="484.0" height="75" rx="8" fill="#E6F3EE"/>
+<text x="825.0" y="317" font-size="14" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="600" fill="#256B5F" text-anchor="start" dominant-baseline="middle">哑铃卧推 · 当前第 2 组</text>
+<text x="825.0" y="347" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#256B5F" text-anchor="start" dominant-baseline="middle">编辑本组必要数据仍可见</text>
+<text x="812.0" y="405" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">重量 (kg)</text>
+<rect x="811.0" y="421" width="484.0" height="45" rx="8" fill="#F1F4F6"/>
+<text x="825.0" y="443" font-size="20" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="650" fill="#17212F" text-anchor="start" dominant-baseline="middle">12.0</text>
+<text x="812.0" y="482" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">完成次数</text>
+<rect x="811.0" y="498" width="484.0" height="45" rx="8" fill="#F1F4F6"/>
+<text x="825.0" y="520" font-size="20" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="650" fill="#17212F" text-anchor="start" dominant-baseline="middle">10</text>
+<rect x="244" y="624" width="1074" height="81" rx="10" fill="#E6F3EE"/>
+<text x="266" y="654" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#256B5F" text-anchor="start" dominant-baseline="middle">退出编辑后摘要仍然遮蔽；不能以编辑表单已打开为由全局解锁。</text>
+<text x="266" y="686" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">提示通知、图表轴刻度、工具提示、趋势涨跌与可反推文案同样应隐藏。</text>
+</svg>

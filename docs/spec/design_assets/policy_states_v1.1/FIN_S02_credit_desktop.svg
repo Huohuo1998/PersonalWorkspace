@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1350" height="840" viewBox="0 0 1350 840">
+<rect x="0" y="0" width="1350" height="840" rx="0" fill="#F7F8FA"/>
+<rect x="0" y="0" width="208" height="840" rx="0" fill="#FFFFFF"/>
+<line x1="208" y1="0" x2="208" y2="840" stroke="#E3E8EF" stroke-width="1"/>
+<rect x="26" y="26" width="37" height="37" rx="11" fill="#256B5F"/>
+<text x="44" y="45" font-size="23" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">P</text>
+<text x="77" y="38" font-size="17" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">Personal</text>
+<text x="77" y="56" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">Workspace</text>
+<rect x="16" y="121" width="176" height="44" rx="8" fill="#FFFFFF"/>
+<text x="37" y="143" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">首页</text>
+<rect x="16" y="177" width="176" height="44" rx="8" fill="#FFFFFF"/>
+<text x="37" y="199" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">日程</text>
+<rect x="16" y="233" width="176" height="44" rx="8" fill="#E6F3EE"/>
+<text x="37" y="255" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="600" fill="#256B5F" text-anchor="start" dominant-baseline="middle">经济</text>
+<rect x="16" y="289" width="176" height="44" rx="8" fill="#FFFFFF"/>
+<text x="37" y="311" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">运动</text>
+<rect x="16" y="345" width="176" height="44" rx="8" fill="#FFFFFF"/>
+<text x="37" y="367" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">饮食</text>
+<text x="244" y="44" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="600" fill="#586473" text-anchor="start" dominant-baseline="middle">PERSONAL WORKSPACE  /  DESIGN REVIEW</text>
+<text x="244" y="89" font-size="29" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">财务管理</text>
+<line x1="240" y1="111" x2="1320" y2="111" stroke="#E3E8EF" stroke-width="1"/>
+<text x="244" y="140" font-size="22" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">信用卡还款 · 溢缴预览</text>
+<rect x="244" y="165" width="115" height="28" rx="14" fill="#FFF4E6"/>
+<text x="301.5" y="179" font-size="12" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="600" fill="#A65B11" text-anchor="middle" dominant-baseline="middle">POL-FIN-02</text>
+<rect x="244.0" y="223" width="349.3333333333333" height="166" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="264.0" y="253" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">原待还欠款</text>
+<text x="264.0" y="305" font-size="32" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">¥500.00</text>
+<text x="264.0" y="349" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">信用卡负债</text>
+<rect x="606.0" y="223" width="349.3333333333333" height="166" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="626.0" y="253" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">本次还款</text>
+<text x="626.0" y="305" font-size="32" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">¥600.00</text>
+<text x="626.0" y="349" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">从工资卡扣除</text>
+<rect x="968.0" y="223" width="349.3333333333333" height="166" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="988.0" y="253" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">还款后溢缴</text>
+<text x="988.0" y="305" font-size="32" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#256B5F" text-anchor="start" dominant-baseline="middle">¥100.00</text>
+<text x="988.0" y="349" font-size="13" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">属于卡内资产</text>
+<rect x="244" y="417" width="1074" height="260" rx="14" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="1"/>
+<text x="269" y="455" font-size="20" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700" fill="#17212F" text-anchor="start" dominant-baseline="middle">一致性核对</text>
+<text x="269" y="511" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">银行账户：¥2,000 → ¥1,400</text>
+<text x="1294" y="511" font-size="17" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="650" fill="#17212F" text-anchor="end" dominant-baseline="middle">−¥600.00</text>
+<text x="269" y="554" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">信用卡：待还 ¥500 → ¥0；溢缴 ¥100</text>
+<text x="1294" y="554" font-size="17" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="650" fill="#17212F" text-anchor="end" dominant-baseline="middle">欠款 ¥0</text>
+<text x="269" y="597" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">净资产参考值：交易前 ¥1,500</text>
+<text x="1294" y="597" font-size="17" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="650" fill="#17212F" text-anchor="end" dominant-baseline="middle">交易后 ¥1,500</text>
+<text x="269" y="640" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#586473" text-anchor="start" dominant-baseline="middle">本月新增收入 / 支出</text>
+<text x="1294" y="640" font-size="17" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="650" fill="#17212F" text-anchor="end" dominant-baseline="middle">均为 ¥0</text>
+<rect x="244" y="703" width="1074" height="66" rx="10" fill="#E6F3EE"/>
+<text x="265" y="735" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="400" fill="#256B5F" text-anchor="start" dominant-baseline="middle">还款不等于消费。溢缴属于卡内余额，不可再次计入银行资产。</text>
+</svg>

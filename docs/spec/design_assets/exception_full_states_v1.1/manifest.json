@@ -1,0 +1,330 @@
+{
+  "name": "Personal Workspace exception full states",
+  "version": "1.1",
+  "date": "2026-10-12",
+  "status": "static high-fidelity review candidates; no software; no design approval inferred",
+  "total_scenarios": 16,
+  "total_screens": 32,
+  "screens": [
+    {
+      "screen_id": "FIN_F01",
+      "device": "desktop",
+      "png": "FIN_F01_desktop.png",
+      "svg": "FIN_F01_desktop.svg",
+      "policy": "FIN-UX-D02",
+      "case_id": "PW-F03",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F01",
+      "device": "mobile",
+      "png": "FIN_F01_mobile.png",
+      "svg": "FIN_F01_mobile.svg",
+      "policy": "FIN-UX-D02",
+      "case_id": "PW-F03",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F02",
+      "device": "desktop",
+      "png": "FIN_F02_desktop.png",
+      "svg": "FIN_F02_desktop.svg",
+      "policy": "PW-P0-EX01",
+      "case_id": "PW-P0-EX01",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F02",
+      "device": "mobile",
+      "png": "FIN_F02_mobile.png",
+      "svg": "FIN_F02_mobile.svg",
+      "policy": "PW-P0-EX01",
+      "case_id": "PW-P0-EX01",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F03",
+      "device": "desktop",
+      "png": "FIN_F03_desktop.png",
+      "svg": "FIN_F03_desktop.svg",
+      "policy": "PW-P0-EX01",
+      "case_id": "PW-P0-EX01",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F03",
+      "device": "mobile",
+      "png": "FIN_F03_mobile.png",
+      "svg": "FIN_F03_mobile.svg",
+      "policy": "PW-P0-EX01",
+      "case_id": "PW-P0-EX01",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F04",
+      "device": "desktop",
+      "png": "FIN_F04_desktop.png",
+      "svg": "FIN_F04_desktop.svg",
+      "policy": "PW-P0-EX01",
+      "case_id": "PW-P0-EX01",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F04",
+      "device": "mobile",
+      "png": "FIN_F04_mobile.png",
+      "svg": "FIN_F04_mobile.svg",
+      "policy": "PW-P0-EX01",
+      "case_id": "PW-P0-EX01",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F05",
+      "device": "desktop",
+      "png": "FIN_F05_desktop.png",
+      "svg": "FIN_F05_desktop.svg",
+      "policy": "PW-P0-EX03",
+      "case_id": "PW-P0-EX03",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F05",
+      "device": "mobile",
+      "png": "FIN_F05_mobile.png",
+      "svg": "FIN_F05_mobile.svg",
+      "policy": "PW-P0-EX03",
+      "case_id": "PW-P0-EX03",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F06",
+      "device": "desktop",
+      "png": "FIN_F06_desktop.png",
+      "svg": "FIN_F06_desktop.svg",
+      "policy": "POL-FIN-03",
+      "case_id": "PW-P0-EX02",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIN_F06",
+      "device": "mobile",
+      "png": "FIN_F06_mobile.png",
+      "svg": "FIN_F06_mobile.svg",
+      "policy": "POL-FIN-03",
+      "case_id": "PW-P0-EX02",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIT_R01",
+      "device": "desktop",
+      "png": "FIT_R01_desktop.png",
+      "svg": "FIT_R01_desktop.svg",
+      "policy": "FIT-UX-D02",
+      "case_id": "PW-P0-EX05",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIT_R01",
+      "device": "mobile",
+      "png": "FIT_R01_mobile.png",
+      "svg": "FIT_R01_mobile.svg",
+      "policy": "FIT-UX-D02",
+      "case_id": "PW-P0-EX05",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIT_R02",
+      "device": "desktop",
+      "png": "FIT_R02_desktop.png",
+      "svg": "FIT_R02_desktop.svg",
+      "policy": "FIT-UX-D03",
+      "case_id": "PW-T07",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIT_R02",
+      "device": "mobile",
+      "png": "FIT_R02_mobile.png",
+      "svg": "FIT_R02_mobile.svg",
+      "policy": "FIT-UX-D03",
+      "case_id": "PW-T07",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIT_R03",
+      "device": "desktop",
+      "png": "FIT_R03_desktop.png",
+      "svg": "FIT_R03_desktop.svg",
+      "policy": "PW-P0-EX04",
+      "case_id": "PW-P0-EX04",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIT_R03",
+      "device": "mobile",
+      "png": "FIT_R03_mobile.png",
+      "svg": "FIT_R03_mobile.svg",
+      "policy": "PW-P0-EX04",
+      "case_id": "PW-P0-EX04",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIT_R04",
+      "device": "desktop",
+      "png": "FIT_R04_desktop.png",
+      "svg": "FIT_R04_desktop.svg",
+      "policy": "PW-P0-EX05",
+      "case_id": "PW-P0-EX05",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIT_R04",
+      "device": "mobile",
+      "png": "FIT_R04_mobile.png",
+      "svg": "FIT_R04_mobile.svg",
+      "policy": "PW-P0-EX05",
+      "case_id": "PW-P0-EX05",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIT_R05",
+      "device": "desktop",
+      "png": "FIT_R05_desktop.png",
+      "svg": "FIT_R05_desktop.svg",
+      "policy": "FIT-UX-D03",
+      "case_id": "PW-T08",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "FIT_R05",
+      "device": "mobile",
+      "png": "FIT_R05_mobile.png",
+      "svg": "FIT_R05_mobile.svg",
+      "policy": "FIT-UX-D03",
+      "case_id": "PW-T08",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "DIET_D01",
+      "device": "desktop",
+      "png": "DIET_D01_desktop.png",
+      "svg": "DIET_D01_desktop.svg",
+      "policy": "POL-DIET-02",
+      "case_id": "DIET-POL-06",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "DIET_D01",
+      "device": "mobile",
+      "png": "DIET_D01_mobile.png",
+      "svg": "DIET_D01_mobile.svg",
+      "policy": "POL-DIET-02",
+      "case_id": "DIET-POL-06",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "DIET_D02",
+      "device": "desktop",
+      "png": "DIET_D02_desktop.png",
+      "svg": "DIET_D02_desktop.svg",
+      "policy": "POL-DIET-02",
+      "case_id": "DIET-POL-05",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "DIET_D02",
+      "device": "mobile",
+      "png": "DIET_D02_mobile.png",
+      "svg": "DIET_D02_mobile.svg",
+      "policy": "POL-DIET-02",
+      "case_id": "DIET-POL-05",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "DIET_D03",
+      "device": "desktop",
+      "png": "DIET_D03_desktop.png",
+      "svg": "DIET_D03_desktop.svg",
+      "policy": "POL-DIET-01",
+      "case_id": "DIET-POL-02",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "DIET_D03",
+      "device": "mobile",
+      "png": "DIET_D03_mobile.png",
+      "svg": "DIET_D03_mobile.svg",
+      "policy": "POL-DIET-01",
+      "case_id": "DIET-POL-02",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "DIET_D04",
+      "device": "desktop",
+      "png": "DIET_D04_desktop.png",
+      "svg": "DIET_D04_desktop.svg",
+      "policy": "POL-DIET-02",
+      "case_id": "DIET-POL-07",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "DIET_D04",
+      "device": "mobile",
+      "png": "DIET_D04_mobile.png",
+      "svg": "DIET_D04_mobile.svg",
+      "policy": "POL-DIET-02",
+      "case_id": "DIET-POL-07",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "DIET_D05",
+      "device": "desktop",
+      "png": "DIET_D05_desktop.png",
+      "svg": "DIET_D05_desktop.svg",
+      "policy": "POL-DIET-02",
+      "case_id": "DIET-POL-07",
+      "review": "待设计签收",
+      "tested": false
+    },
+    {
+      "screen_id": "DIET_D05",
+      "device": "mobile",
+      "png": "DIET_D05_mobile.png",
+      "svg": "DIET_D05_mobile.svg",
+      "policy": "POL-DIET-02",
+      "case_id": "DIET-POL-07",
+      "review": "待设计签收",
+      "tested": false
+    }
+  ]
+}
